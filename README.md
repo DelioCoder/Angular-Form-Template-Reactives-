@@ -15,3 +15,17 @@
 - FormGroup
 
 - FormArray
+
+## Reactive Form Validators sync & async
+
+- Validaciones manuales
+
+- Validaciones asíncronas
+
+- Validar contra expresiones regulares
+
+- Separar la lógica de validaciones
+
+- Estado del formulario
+
+- Mensajes de error personalizados
